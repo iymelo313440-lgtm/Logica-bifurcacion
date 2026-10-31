@@ -31,7 +31,7 @@ Durante el desarrollo se utilizaron los siguientes elementos de Python:
 4. Ejecutar el archivo:
 
 ```bash
-python IVONEE_MELO_proyectoM2.py
+python IVON_MELO_proyectoM2.py
 ```
 
 ### Reflexión sobre el aprendizaje
